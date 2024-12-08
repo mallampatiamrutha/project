@@ -1,0 +1,16 @@
+Phase,Task,Status,Cost,Start Date,End Date
+Needs Gathering,Department Interviews,Completed,6917,2024-12-06,2024-12-27
+Needs Gathering,Data Assessment,Not Started,3575,2024-12-06,2025-01-10
+Needs Gathering,Requirement Analysis,In Progress,6560,2024-12-06,2024-12-31
+Tool Selection,Framework Evaluation,In Progress,5264,2024-12-06,2025-01-17
+Tool Selection,Tool Feasibility Study,Not Started,4945,2024-12-06,2024-12-29
+Tool Selection,Technology Proposal,Completed,4446,2024-12-06,2025-01-15
+System Implementation,Application Deployment,Completed,2073,2024-12-06,2025-01-19
+System Implementation,Infrastructure Integration,Not Started,3988,2024-12-06,2025-01-07
+System Implementation,Data Migration,Completed,3160,2024-12-06,2024-12-31
+User Training,Training Sessions,In Progress,3227,2024-12-06,2024-12-31
+User Training,Documentation Preparation,In Progress,3201,2024-12-06,2025-01-08
+User Training,Feedback Sessions,Completed,4231,2024-12-06,2025-01-18
+Post-Implementation,Feedback Collection,Completed,6245,2024-12-06,2024-12-23
+Post-Implementation,Performance Analysis,Completed,6684,2024-12-06,2025-01-13
+Post-Implementation,System Optimization,Not Started,5960,2024-12-06,2024-12-23
